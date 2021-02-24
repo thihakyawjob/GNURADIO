@@ -85,6 +85,9 @@ source: git+https://github.com/velichkov/gr-osmosdr.git
 
 pybombs install gr-osmosdr
 
+## GNU Radio and IIO Devices: gr-iio
+pybombs install gr-iio
+
 
 ## Running gnuradio-companion
 
