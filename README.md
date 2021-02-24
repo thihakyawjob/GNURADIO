@@ -88,7 +88,7 @@ pybombs install gr-osmosdr
 
 ## Running gnuradio-companion
 
-*source ~/sdr/setup_env.sh
-*gnuradio-companion
+* source ~/sdr/setup_env.sh
+* gnuradio-companion
 
 
