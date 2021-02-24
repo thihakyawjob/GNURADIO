@@ -91,7 +91,3 @@ pybombs install gr-osmosdr
 source ~/sdr/setup_env.sh
 gnuradio-companion
 ```
-<<<<<<< HEAD
-THIHA KYAW
-=======
->>>>>>> bf2604235ede81377d8196a15b2b23690f0257f8
